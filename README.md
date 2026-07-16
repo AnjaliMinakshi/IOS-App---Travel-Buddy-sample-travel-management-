@@ -14,12 +14,39 @@ A modern iOS travel planning application built with **SwiftUI**, **Firebase**, a
 
 ---
 
+### Home
+
+| Home Screen |
+|-------------|
+| ![Home Screen] <img width="273" height="566" alt="Screenshot 2026-07-16 at 11 21 56 AM" src="https://github.com/user-attachments/assets/a387d0f5-c79e-4c0c-8034-47c9ad043df8" />
+ |
+
+---
+
 ### Add Trip
 
 | Add Trip |
 |----------|
 | ![Add Trip](<img width="278" height="578" alt="Screenshot 2026-07-16 at 11 07 59 AM" src="https://github.com/user-attachments/assets/d84d96de-3a03-4418-a24f-1889ac2a84cb" />
 ) |
+
+---
+
+### Route Preview
+
+| Apple Maps Route |
+|------------------|
+| ![Route Preview] <img width="276" height="421" alt="Screenshot 2026-07-16 at 11 24 20 AM" src="https://github.com/user-attachments/assets/0ede15f0-2e59-4c73-86cc-125b7e589190" />
+ |
+
+---
+
+### Trip Details
+
+| Trip Details |
+|--------------|
+| ![Trip Details] <img width="263" height="565" alt="Screenshot 2026-07-16 at 11 25 02 AM" src="https://github.com/user-attachments/assets/96b5ee11-9cae-42c7-90f6-38ec6b546b2d" />
+ |
 
 ---
 
