@@ -10,9 +10,7 @@ A modern iOS travel planning application built with **SwiftUI**, **Firebase**, a
 
 | Login | Register |
 |--------|----------|
-| ![Login Screen](<img width="277" height="579" alt="Screenshot 2026-07-16 at 11 04 48 AM" src="https://github.com/user-attachments/assets/82f40a0a-70f3-49d9-8ef3-1c27e228f95e" />
-) | ![Register Screen](<img width="280" height="577" alt="Screenshot 2026-07-16 at 11 05 37 AM" src="https://github.com/user-attachments/assets/c469a191-1f0e-4899-a524-7da8548a3a64" />
-) |
+| ![Login Screen]<img width="277" height="579" alt="Screenshot 2026-07-16 at 11 04 48 AM" src="https://github.com/user-attachments/assets/82f40a0a-70f3-49d9-8ef3-1c27e228f95e" /> | ![Register Screen](<img width="280" height="577" alt="Screenshot 2026-07-16 at 11 05 37 AM" src="https://github.com/user-attachments/assets/c469a191-1f0e-4899-a524-7da8548a3a64" /> |
 
 ---
 
